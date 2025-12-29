@@ -21,9 +21,7 @@ To get started with the project, follow the steps below.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KalyanMurapaka45/Gemini-ChatBot.git
-   cd gemini-pro-chat
-   ```
+  
 
 2. Install dependencies:
 
@@ -32,8 +30,6 @@ To get started with the project, follow the steps below.
    ```
 
 3. Set up your Google API Key:
-
-   - Create a project on the [Google Cloud Console](https://console.cloud.google.com/).
    - Enable the GenerativeAI API.
    - Create an API key and add it to your environment variables or a `.env` file.
 
@@ -43,11 +39,11 @@ To get started with the project, follow the steps below.
    streamlit run app.py
    ```
 
-   The application will be accessible at [http://localhost:8501/](http://localhost:8501/).
+  
 
 ## Usage
 
-1. Open your web browser and navigate to [http://localhost:8501/](http://localhost:8501/).
+1. Open your web browser
 2. Enter your message in the chat input box.
 3. Chat with Google Gemini-Pro and view the responses in real-time.
 
@@ -65,6 +61,4 @@ Contributions to the Google Gemini-Pro Chat Application are welcome! If you have
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-## Contact
 
--   Hema Kalyan - [kalyanmurapaka274@gmail.com](mailto:kalyanmurapaka274@gmail.com)
