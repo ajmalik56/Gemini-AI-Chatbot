@@ -14,32 +14,7 @@ To get started with the project, follow the steps below.
 
 - Google Generativeai
 - Google API Key
-- Streamlit
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-  
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Set up your Google API Key:
-   - Enable the GenerativeAI API.
-   - Create an API key and add it to your environment variables or a `.env` file.
-
-4. Run the application:
-
-   ```bash
-   streamlit run app.py
-   ```
-
-  
+- Streamlit 
 
 ## Usage
 
